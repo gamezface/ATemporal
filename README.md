@@ -14,11 +14,11 @@ Canção: Voar voar: fragmento "Hoje, muito mais que ontem é preciso voar" e "o
 ## Casos de uso 
 
 ### UC1 
-O usuário poderá navegar livremente no site (ou pelos ícones no cabeçalho) para saber a data de criação de cada conteúdo citado.
+O usuário poderá navegar livremente no site para saber a data de criação de cada conteúdo citado.
 ### UC2
-O usuário seleciona um tópico e ao clicar em sua imagem referente, o sistema redireciona para a pagina específica sobre o conteúdo 
+O usuário seleciona um tópico e ao clicar em seu nome, o sistema exibe uma janela de conteúdo específico 
 ### UC3
-O usuário seleciona no cabeçalho a opção "SOBRE" para alternar entre conteúdos informativos do site
+O usuário seleciona no filtro (no canto direito) para alternar entre conteúdos informativos do site
 
 ## Membros da equipe 
 Anderson Barbosa e Yan Max
